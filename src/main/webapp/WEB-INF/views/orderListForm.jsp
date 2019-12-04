@@ -25,7 +25,7 @@
     <section class="list-page">
         <section class="mgt40">
             <h4 class="pdl20">
-                <i class="fa fa-list mgr5"></i>주문정보 ㄸ
+                <i class="fa fa-list mgr5"></i>주문정보 1231231231
             </h4>
             <table class="table table-bordered table-hover data-table mgt20">
                 <colgroup>
