@@ -1,0 +1,42 @@
+@font-face{
+    font-family: 'NanumGothic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/NanumGothic.eot');
+    src: local('☺'), url('../fonts/NanumGothic.woff') format('woff'), url('../fonts/NanumGothic.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'NanumGothicBold';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/NanumGothicBold.eot');
+    src: local('☺'), url('../fonts/NanumGothicBold.woff') format('woff'), url('../fonts/NanumGothicBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/NanumBarunGothic.eot);
+    src: local('Nanum Barun Gothic'),
+         local('NanumBarunGothic'),
+         url(../fonts/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/NanumBarunGothic.woff2) format('woff2'),
+         url(../fonts/NanumBarunGothic.woff) format('woff'),
+         url(../fonts/NanumBarunGothic.ttf) format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/NanumBarunGothicBold.eot);
+    src: local('Nanum Barun Gothic Bold'),
+         local('NanumBarunGothicBold'),
+         url(../fonts/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/NanumBarunGothicBold.woff2) format('woff2'),
+         url(../fonts/NanumBarunGothicBold.woff) format('woff'),
+         url(../fonts/NanumBarunGothicBold.ttf) format('truetype');
+  }
+  
